@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings básicas de la app -->
+    <string name="app_name">PescApp</string>
+
+    <!-- Strings de splash -->
+    <string name="splash_subtitle">Loading...</string>
+
+    <!-- Strings de la pantalla principal -->
+    <string name="welcome_title">Welcome to PescApp!</string>
+    <string name="welcome_subtitle">Your complete fishing guide</string>
+
+    <!-- Strings de las 4 cards principales -->
+    <string name="documentation_title">Documentation</string>
+    <string name="documentation_desc">Guides and manuals</string>
+    <string name="documentation_placeholder">Documentation section - More content coming soon</string>
+
+    <string name="fishing_types_title">Fishing Types</string>
+    <string name="fishing_types_desc">Styles and techniques</string>
+    <string name="fishing_types_header">Fishing Types</string>
+
+    <string name="knots_title">Knots</string>
+    <string name="knots_desc">Step-by-step tutorials</string>
+
+    <string name="lures_title">Lures</string>
+    <string name="lures_desc">Lure guide</string>
+
+    <!-- Strings de tipos de pesca -->
+    <string name="feeder_title">Feeder</string>
+    <string name="feeder_description">Feeder fishing is a technique that uses a feeder to attract fish to the fishing spot. It\'s ideal for catching carp, bream and other cyprinids in still waters.</string>
+
+    <string name="casting_title">Casting</string>
+    <string name="casting_description">Casting is a sport fishing modality that focuses on casting precision. It\'s practiced in both fresh and salt water, targeting predators like pike, perch or black bass.</string>
+
+    <string name="spinning_title">Spinning</string>
+    <string name="spinning_description">Spinning is an active fishing technique with artificial lures. It allows covering large water extensions and is very effective for catching predators like trout, pike and perch.</string>
+
+    <string name="fly_title">Fly</string>
+    <string name="fly_description">Fly fishing is an art that imitates the insects that fish feed on. It requires specific casting technique and is especially popular for trout and salmon fishing.</string>
+
+    <!-- Strings de tutoriales -->
+    <string name="step_number">Step %d</string>
+
+    <!-- Strings de nudos específicos -->
+    <string name="knot_1_name">Palomar Knot</string>
+    <string name="knot_1_description">Strong and versatile knot for hooks</string>
+    <string name="knot_1_step_1_description">Pass the line through the hook eye and make a 15cm loop</string>
+    <string name="knot_1_step_2_description">Make a simple knot with the double loop, don\'t tighten</string>
+    <string name="knot_1_step_3_description">Pass the hook through the loop and tighten by pulling the main line</string>
+
+    <string name="knot_2_name">Clinch Knot</string>
+    <string name="knot_2_description">Basic knot ideal for beginners</string>
+    <string name="knot_2_step_1_description">Pass the line through the hook eye</string>
+    <string name="knot_2_step_2_description">Make 5-7 turns around the main line</string>
+    <string name="knot_2_step_3_description">Pass the end through the loop near the hook</string>
+    <string name="knot_2_step_4_description">Wet and tighten slowly</string>
+
+    <string name="knot_3_name">Albright Knot</string>
+    <string name="knot_3_description">Perfect for joining lines of different thickness</string>
+    <string name="knot_3_step_1_description">Make a loop with the thicker line</string>
+    <string name="knot_3_step_2_description">Pass the thin line through the loop and wrap 10 times</string>
+
+    <!-- Strings de señuelos -->
+    <string name="lure_1_name">Spoon</string>
+    <string name="lure_1_description">Classic spinning lure</string>
+    <string name="lure_1_step_1_description">Cast the spoon and let it sink to desired depth</string>
+    <string name="lure_1_step_2_description">Retrieve with regular movements, varying speed based on fish activity</string>
+
+    <string name="lure_2_name">Popper</string>
+    <string name="lure_2_description">Surface lure</string>
+    <string name="lure_2_step_1_description">Cast the popper in areas with surface activity</string>
+    <string name="lure_2_step_2_description">Make short, sharp movements to create surface splashes</string>
+
+    <string name="lure_3_name">Jig</string>
+    <string name="lure_3_description">Versatile weighted lure</string>
+    <string name="lure_3_step_1_description">Cast the jig and let it reach the bottom</string>
+    <string name="lure_3_step_2_description">Make short vertical movements, imitating an injured fish</string>
+
+    <!-- Strings de términos -->
+    <string name="menu_terms">Terms and Conditions</string>
+    <string name="terms_title_first_time">Terms and Conditions</string>
+    <string name="terms_title_menu">Terms and Conditions</string>
+    <string name="terms_accept_text">I have read and accept the terms and conditions</string>
+    <string name="terms_continue">Continue</string>
+
+    <!-- Strings de modo oscuro -->
+    <string name="menu_dark_mode">Dark Mode</string>
+    <string name="dark_mode_select_title">Select Theme</string>
+    <string name="theme_light">Light Mode</string>
+    <string name="theme_dark">Dark Mode</string>
+
+    <!-- Strings de idiomas -->
+    <string name="lang_spanish">Spanish</string>
+    <string name="lang_english">English</string>
+    <string name="language_spanish">Spanish</string>
+    <string name="language_english">English</string>
+    <string name="language_select_title">Select Language</string>
+
+    <!-- Strings del menú -->
+    <string name="menu_language">Language</string>
+
+    <!-- Strings de diálogos -->
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+
+    <!-- Strings de pantallas existentes -->
+    <string name="primera_title">First Screen</string>
+    <string name="primera_text">This is the secondary screen</string>
+    <string name="segunda_title">Second Screen</string>
+    <string name="segunda_text">This is the Second Activity!</string>
+    <string name="segunda_description">Created easily using BaseActivity class. Menu, theme and language work automatically.</string>
+
+    <!-- Strings de señuelos actualizadas -->
+    <string name="lures_header_title">Lure Types</string>
+
+    <!-- Nombres y descripciones cortas para la lista -->
+    <string name="lure_cucharilla_name">Spoon</string>
+    <string name="lure_cucharilla_description">Classic spinning lure</string>
+
+    <string name="lure_popper_name">Popper</string>
+    <string name="lure_popper_description">Surface lure</string>
+
+    <string name="lure_jig_name">Jig</string>
+    <string name="lure_jig_description">Versatile weighted lure</string>
+
+    <string name="lure_spinnerbait_name">Spinnerbait</string>
+    <string name="lure_spinnerbait_description">Lure with spinning blade</string>
+
+    <string name="lure_crankbait_name">Crankbait</string>
+    <string name="lure_crankbait_description">Diving lure</string>
+
+    <string name="lure_soft_plastic_name">Soft Plastic</string>
+    <string name="lure_soft_plastic_description">Soft plastic lure</string>
+
+    <!-- Descripciones completas para las pantallas de detalle -->
+    <string name="lure_cucharilla_full_description">The spoon is one of the most classic and effective lures for predator fishing. Its oval and concave shape allows it to spin on itself during retrieval, creating vibrations and flashes that attract fish.\n\nMain characteristics:\n• Easy to use for beginners\n• Effective in both clear and murky waters\n• Ideal for trout, perch and pike\n• Works well at different retrieval speeds\n\nUsage technique:\nCast the spoon and start a constant retrieval. Vary the speed according to fish activity. On cold days, retrieve more slowly.</string>
+
+    <string name="lure_popper_full_description">The popper is a surface lure designed to imitate an injured fish or insect on the water surface. Its characteristic concave mouth creates splashes and noise when moved.\n\nMain characteristics:\n• Floating surface lure\n• Creates lots of noise and splashes\n• Ideal for calm waters at dawn and dusk\n• Very effective for black bass and pike\n• Very exciting visual fishing\n\nUsage technique:\nCast near structures and wait for the water to calm down. Make short, sharp jerks followed by pauses. The attack usually occurs during the pause.</string>
+
+    <string name="lure_jig_full_description">The jig is one of the most versatile lures in fishing. It consists of a weighted head with hook, often complemented with rubbers, soft plastics or feathers.\n\nMain characteristics:\n• Extremely versatile\n• Allows fishing at any depth\n• Can be used with multiple techniques\n• Effective all year round\n• Perfectly imitates crabs and injured fish\n\nUsage technique:\nLet the jig reach the bottom and make short vertical movements. You can also drag it slowly or make jumps on the bottom. The key is to maintain constant contact with the lure.</string>
+
+    <string name="lure_spinnerbait_full_description">The spinnerbait is a unique lure with one or more spinning blades mounted on a V-shaped wire. It\'s very effective for fishing in dense vegetation.\n\nMain characteristics:\n• Spinning blades create vibrations\n• Weedless design\n• Works well in vegetation\n• Attracts fish from great distance\n• Ideal for black bass and pike\n\nUsage technique:\nRetrieve at constant speed keeping it just below the surface or at mid-water. You can make occasional pauses so the blades stop spinning momentarily.</string>
+
+    <string name="lure_crankbait_full_description">The crankbait is a hard lure that imitates small fish. Its front lip allows it to dive to different depths depending on the design.\n\nMain characteristics:\n• Perfectly imitates small fish\n• Available for different depths\n• Very attractive erratic movement\n• Effective in open waters\n• Ideal for covering lots of water quickly\n\nUsage technique:\nRetrieve at constant speed to maintain desired depth. Occasionally you can make jerks so the lure changes direction abruptly.</string>
+
+    <string name="lure_soft_plastic_full_description">Soft plastic lures are extremely versatile and realistic. Their soft texture makes them very attractive to fish.\n\nMain characteristics:\n• Very realistic texture and movement\n• Can be rigged in multiple ways\n• Available in countless shapes and colors\n• Effective with finesse techniques\n• Ideal for wary fish\n\nUsage technique:\nCan be used with Texas, Carolina, Drop Shot rigs, etc. The key is to impart subtle and natural movements. They are especially effective in clear waters and with educated fish.</string>
+
+    <string name="lure_default_description">Information about this lure coming soon.</string>
+
+    <!-- Contenido de términos y condiciones en inglés -->
+    <string name="terms_content">PESCAPP TERMS AND CONDITIONS OF USE
+
+1. ACCEPTANCE OF TERMS
+
+By downloading, installing, or using PescApp, you agree to be bound by these Terms and Conditions of Use. If you do not agree to these terms, do not use the application.
+
+2. SERVICE DESCRIPTION
+
+PescApp is a mobile application designed to provide information and tools related to fishing. The application may include features such as species identification, weather information, catch logging, and other related characteristics.
+
+3. PERMITTED USE
+
+3.1. You may use PescApp solely for personal and non-commercial purposes.
+3.2. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information obtained from the application.
+3.3. You must not use the application in a way that could damage, disable, overburden, or impair the service.
+
+4. USER CONTENT
+
+4.1. You are responsible for all content you post or share through PescApp.
+4.2. By submitting content, you grant PescApp a non-exclusive, royalty-free, worldwide, and transferable license to use, reproduce, distribute, and display such content.
+
+5. PRIVACY
+
+Your privacy is important to us. The use of PescApp is subject to our Privacy Policy, which forms part of these terms.
+
+6. LIABILITY
+
+6.1. PescApp is provided "as is" without warranties of any kind.
+6.2. We do not guarantee that the application will be error-free or operate without interruptions.
+6.3. We are not responsible for any direct, indirect, incidental, or consequential damages resulting from the use of the application.
+
+7. MODIFICATIONS
+
+We reserve the right to modify these terms at any time. Changes will take effect immediately after publication in the application.
+
+8. TERMINATION
+
+We may terminate or suspend your access to PescApp at any time, without prior notice, for any reason.
+
+9. APPLICABLE LAW
+
+These terms are governed by the laws of Spain. Any dispute will be resolved in the competent courts of Spain.
+
+10. CONTACT
+
+If you have questions about these terms, you can contact us at: info@pescapp.com
+
+Last updated: May 2025
+
+By continuing, you confirm that you have read, understood, and accept these terms and conditions.</string>
+</resources>

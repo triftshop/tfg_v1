@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings básicas de la app -->
+    <string name="app_name">PescApp</string>
+
+    <!-- Strings de splash -->
+    <string name="splash_subtitle">Cargando...</string>
+
+    <!-- Strings de la pantalla principal -->
+    <string name="welcome_title">¡Bienvenido a PescApp!</string>
+    <string name="welcome_subtitle">Tu guía completa de pesca</string>
+
+    <!-- Strings de las 4 cards principales -->
+    <string name="documentation_title">Documentación</string>
+    <string name="documentation_desc">Guías y manuales</string>
+    <string name="documentation_placeholder">Sección de documentación - Próximamente más contenido</string>
+
+    <string name="fishing_types_title">Tipos de Pesca</string>
+    <string name="fishing_types_desc">Estilos y técnicas</string>
+    <string name="fishing_types_header">Tipos de Pesca</string>
+
+    <string name="knots_title">Nudos</string>
+    <string name="knots_desc">Tutoriales paso a paso</string>
+
+    <string name="lures_title">Señuelos</string>
+    <string name="lures_desc">Guía de señuelos</string>
+
+    <!-- Strings de tipos de pesca -->
+    <string name="feeder_title">Feeder</string>
+    <string name="feeder_description">La pesca al feeder es una técnica que utiliza un comedero para atraer a los peces al punto de pesca. Es ideal para pescar carpas, bremas y otros ciprínidos en aguas tranquilas.</string>
+
+    <string name="casting_title">Casting</string>
+    <string name="casting_description">El casting es una modalidad de pesca deportiva que se ceniza en la precisión del lance. Se practica tanto en agua dulce como salada, buscando depredadores como el lucio, la perca o el black bass.</string>
+
+    <string name="spinning_title">Spinning</string>
+    <string name="spinning_description">El spinning es una técnica activa de pesca con señuelos artificiales. Permite cubrir grandes extensiones de agua y es muy efectiva para capturar depredadores como la trucha, el lucio y la perca.</string>
+
+    <string name="fly_title">Mosca</string>
+    <string name="fly_description">La pesca a mosca es un arte que imita los insectos de los que se alimentan los peces. Requiere técnica específica de lance y es especialmente popular para la pesca de truchas y salmones.</string>
+
+    <!-- Strings de tutoriales -->
+    <string name="step_number">Paso %d</string>
+
+    <!-- Strings de nudos específicos -->
+    <string name="knot_1_name">Nudo Palomar</string>
+    <string name="knot_1_description">Nudo fuerte y versátil para anzuelos</string>
+    <string name="knot_1_step_1_description">Pasa el sedal por el ojo del anzuelo y haz un bucle de unos 15cm</string>
+    <string name="knot_1_step_2_description">Haz un nudo simple con el bucle doble, sin apretar</string>
+    <string name="knot_1_step_3_description">Pasa el anzuelo por el bucle y aprieta tirando del sedal principal</string>
+
+    <string name="knot_2_name">Nudo Clinch</string>
+    <string name="knot_2_description">Nudo básico ideal para principiantes</string>
+    <string name="knot_2_step_1_description">Pasa el sedal por el ojo del anzuelo</string>
+    <string name="knot_2_step_2_description">Haz 5-7 vueltas alrededor del sedal principal</string>
+    <string name="knot_2_step_3_description">Pasa el extremo por el bucle cerca del anzuelo</string>
+    <string name="knot_2_step_4_description">Humedece y aprieta lentamente</string>
+
+    <string name="knot_3_name">Nudo Albright</string>
+    <string name="knot_3_description">Perfecto para unir sedales de diferente grosor</string>
+    <string name="knot_3_step_1_description">Haz un bucle con el sedal más grueso</string>
+    <string name="knot_3_step_2_description">Pasa el sedal fino por el bucle y enrolla 10 veces</string>
+
+    <!-- Strings de señuelos -->
+    <string name="lure_1_name">Cucharilla</string>
+    <string name="lure_1_description">Señuelo giratorio clásico</string>
+    <string name="lure_1_step_1_description">Lanza la cucharilla y deja que se hunda hasta la profundidad deseada</string>
+    <string name="lure_1_step_2_description">Recoge con movimientos regulares, variando la velocidad según la actividad de los peces</string>
+
+    <string name="lure_2_name">Popper</string>
+    <string name="lure_2_description">Señuelo de superficie</string>
+    <string name="lure_2_step_1_description">Lanza el popper en zonas con actividad superficial</string>
+    <string name="lure_2_step_2_description">Haz movimientos cortos y secos para crear salpicaduras en superficie</string>
+
+    <string name="lure_3_name">Jig</string>
+    <string name="lure_3_description">Señuelo lastrado versátil</string>
+    <string name="lure_3_step_1_description">Lanza el jig y deja que llegue al fondo</string>
+    <string name="lure_3_step_2_description">Realiza movimientos verticales cortos, imitando un pez herido</string>
+
+    <!-- Strings de términos -->
+    <string name="menu_terms">Términos y Condiciones</string>
+    <string name="terms_title_first_time">Términos y Condiciones</string>
+    <string name="terms_title_menu">Términos y Condiciones</string>
+    <string name="terms_accept_text">He leído y acepto los términos y condiciones</string>
+    <string name="terms_continue">Continuar</string>
+
+    <!-- Strings de modo oscuro -->
+    <string name="menu_dark_mode">Modo Oscuro</string>
+    <string name="dark_mode_select_title">Selecciona tema</string>
+    <string name="theme_light">Modo Claro</string>
+    <string name="theme_dark">Modo Oscuro</string>
+
+    <!-- Strings de idiomas -->
+    <string name="lang_spanish">Español</string>
+    <string name="lang_english">Inglés</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_english">Inglés</string>
+    <string name="language_select_title">Selecciona idioma</string>
+
+    <!-- Strings del menú -->
+    <string name="menu_language">Idioma</string>
+
+    <!-- Strings de diálogos -->
+    <string name="cancel">Cancelar</string>
+    <string name="done">Aceptar</string>
+
+    <!-- Strings de pantallas existentes -->
+    <string name="primera_title">Primera Pantalla</string>
+    <string name="primera_text">Esta es la pantalla secundaria</string>
+    <string name="segunda_title">Segunda Pantalla</string>
+    <string name="segunda_text">¡Esta es la Segunda Actividad!</string>
+    <string name="segunda_description">Creada fácilmente usando la clase BaseActivity. El menú, tema e idioma funcionan automáticamente.</string>
+
+    <!-- Strings de señuelos actualizadas -->
+    <string name="lures_header_title">Tipos de Señuelos</string>
+
+    <!-- Nombres y descripciones cortas para la lista -->
+    <string name="lure_cucharilla_name">Cucharilla</string>
+    <string name="lure_cucharilla_description">Señuelo giratorio clásico</string>
+
+    <string name="lure_popper_name">Popper</string>
+    <string name="lure_popper_description">Señuelo de superficie</string>
+
+    <string name="lure_jig_name">Jig</string>
+    <string name="lure_jig_description">Señuelo lastrado versátil</string>
+
+    <string name="lure_spinnerbait_name">Spinnerbait</string>
+    <string name="lure_spinnerbait_description">Señuelo con pala giratoria</string>
+
+    <string name="lure_crankbait_name">Crankbait</string>
+    <string name="lure_crankbait_description">Señuelo de buceo</string>
+
+    <string name="lure_soft_plastic_name">Vinilo</string>
+    <string name="lure_soft_plastic_description">Señuelo de plástico blando</string>
+
+    <!-- Descripciones completas para las pantallas de detalle -->
+    <string name="lure_cucharilla_full_description">La cucharilla es uno de los señuelos más clásicos y efectivos para la pesca de depredadores. Su forma ovalada y cóncava le permite girar sobre sí misma durante la recuperación, creando vibraciones y destellos que atraen a los peces.\n\nCaracterísticas principales:\n• Fácil de usar para principiantes\n• Efectiva en aguas tanto claras como turbias\n• Ideal para truchas, percas y lucios\n• Funciona bien a diferentes velocidades de recuperación\n\nTécnica de uso:\nLanza la cucharilla y comienza una recuperación constante. Varía la velocidad según la actividad de los peces. En días fríos, recupera más lentamente.</string>
+
+    <string name="lure_popper_full_description">El popper es un señuelo de superficie diseñado para imitar a un pez herido o insecto en la superficie del agua. Su característica boca cóncava crea salpicaduras y ruido al ser movido.\n\nCaracterísticas principales:\n• Señuelo de superficie flotante\n• Crea mucho ruido y salpicaduras\n• Ideal para aguas tranquilas al amanecer y atardecer\n• Muy efectivo para black bass y lucios\n• Pesca visual muy emocionante\n\nTécnica de uso:\nLanza cerca de estructuras y espera a que se calme el agua. Realiza tirones cortos y secos seguidos de pausas. El ataque suele producirse durante la pausa.</string>
+
+    <string name="lure_jig_full_description">El jig es uno de los señuelos más versátiles en la pesca. Consiste en una cabeza lastrada con anzuelo, a menudo complementado con gomas, vinilos o plumas.\n\nCaracterísticas principales:\n• Extremadamente versátil\n• Permite pescar a cualquier profundidad\n• Se puede usar con múltiples técnicas\n• Efectivo todo el año\n• Imita perfectamente cangrejos y peces heridos\n\nTécnica de uso:\nDeja que el jig llegue al fondo y realiza movimientos verticales cortos. También puedes arrastrarlo lentamente o realizar saltos sobre el fondo. La clave está en mantener contacto constante con el señuelo.</string>
+
+    <string name="lure_spinnerbait_full_description">El spinnerbait es un señuelo único con una o más palas giratorias montadas en un alambre en forma de V. Es muy efectivo para pescar en vegetación densa.\n\nCaracterísticas principales:\n• Palas giratorias crean vibraciones\n• Diseño anti-enganche\n• Funciona bien en vegetación\n• Atrae peces desde gran distancia\n• Ideal para black bass y lucios\n\nTécnica de uso:\nRecupera a velocidad constante manteniéndolo justo bajo la superficie o a media agua. Puedes hacer pausas ocasionales para que las palas dejen de girar momentáneamente.</string>
+
+    <string name="lure_crankbait_full_description">El crankbait es un señuelo duro que imita peces pequeños. Su pala frontal le permite bucear a diferentes profundidades según el diseño.\n\nCaracterísticas principales:\n• Imita perfectamente peces pequeños\n• Disponible para diferentes profundidades\n• Movimiento errático muy atractivo\n• Efectivo en aguas abiertas\n• Ideal para cubrir mucha agua rápidamente\n\nTécnica de uso:\nRecupera a velocidad constante para mantener la profundidad deseada. Ocasionalmente puedes hacer tirones para que el señuelo cambie de dirección bruscamente.</string>
+
+    <string name="lure_soft_plastic_full_description">Los señuelos de vinilo o plástico blando son extremadamente versátiles y realistas. Su textura blanda los hace muy atractivos para los peces.\n\nCaracterísticas principales:\n• Textura y movimiento muy realistas\n• Se pueden montar de múltiples formas\n• Disponibles en infinidad de formas y colores\n• Efectivos con técnicas finesse\n• Ideales para peces desconfiados\n\nTécnica de uso:\nPueden usarse con montajes Texas, Carolina, Drop Shot, etc. La clave está en impartir movimientos sutiles y naturales. Son especialmente efectivos en aguas claras y con peces educados.</string>
+
+    <string name="lure_default_description">Información sobre este señuelo próximamente disponible.</string>
+
+    <!-- Contenido de términos y condiciones -->
+    <string name="terms_content">TÉRMINOS Y CONDICIONES DE USO DE PESCAPP
+
+1. ACEPTACIÓN DE LOS TÉRMINOS
+
+Al descargar, instalar o utilizar PescApp, usted acepta estar sujeto a estos Términos y Condiciones de Uso. Si no está de acuerdo con estos términos, no utilice la aplicación.
+
+2. DESCRIPCIÓN DEL SERVICIO
+
+PescApp es una aplicación móvil diseñada para proporcionar información y herramientas relacionadas con la pesca. La aplicación puede incluir funciones como identificación de especies, información meteorológica, registro de capturas y otras características relacionadas.
+
+3. USO PERMITIDO
+
+3.1. Usted puede usar PescApp únicamente para fines personales y no comerciales.
+3.2. No está permitido modificar, copiar, distribuir, transmitir, mostrar, realizar, reproducir, publicar, licenciar, crear obras derivadas, transferir o vender cualquier información obtenida de la aplicación.
+3.3. No debe usar la aplicación de manera que pueda dañar, deshabilitar, sobrecargar o deteriorar el servicio.
+
+4. CONTENIDO DEL USUARIO
+
+4.1. Usted es responsable de todo el contenido que publique o comparta a través de PescApp.
+4.2. Al enviar contenido, otorga a PescApp una licencia no exclusiva, libre de regalías, mundial y transferible para usar, reproducir, distribuir y mostrar dicho contenido.
+
+5. PRIVACIDAD
+
+Su privacidad es importante para nosotros. El uso de PescApp está sujeto a nuestra Política de Privacidad, que forma parte de estos términos.
+
+6. RESPONSABILIDAD
+
+6.1. PescApp se proporciona "tal como está" sin garantías de ningún tipo.
+6.2. No garantizamos que la aplicación esté libre de errores o que funcione sin interrupciones.
+6.3. No somos responsables de ningún daño directo, indirecto, incidental o consecuente que resulte del uso de la aplicación.
+
+7. MODIFICACIONES
+
+Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios entrarán en vigor inmediatamente después de su publicación en la aplicación.
+
+8. TERMINACIÓN
+
+Podemos terminar o suspender su acceso a PescApp en cualquier momento, sin previo aviso, por cualquier motivo.
+
+9. LEY APLICABLE
+
+Estos términos se rigen por las leyes de España. Cualquier disputa será resuelta en los tribunales competentes de España.
+
+10. CONTACTO
+
+Si tiene preguntas sobre estos términos, puede contactarnos en: info@pescapp.com
+
+Fecha de última actualización: Mayo 2025
+
+Al continuar, confirma que ha leído, entendido y acepta estos términos y condiciones.</string>
+</resources>
